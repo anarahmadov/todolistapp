@@ -1,1 +1,3 @@
-# todolistapp
+# Simple Todolist Application
+
+- Angular
